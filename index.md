@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "Hello"
 layout: splash
 header:
   overlay_color: "#fff"
